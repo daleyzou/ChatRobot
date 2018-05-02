@@ -1,0 +1,4 @@
+#Tue May 01 20:10:41 CST 2018
+base.0=D\:\\Android\\AndroidStudioProjects\\ChatRobot\\speechDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
